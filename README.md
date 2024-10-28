@@ -18,5 +18,7 @@ y hacer la pegada localmente http://127.0.0.1:3000/properties desde el navegador
 Se agrego un test unitario que testea unicamente que retorne los valores esperados
 que en este caso son los titulos de las propiedad y en caso de 400 se espera que regrese un 400.
 
+correr los test con 'rails test'
+
 ## Comentarios
 Cualquier duda estoy a su disposicion.
